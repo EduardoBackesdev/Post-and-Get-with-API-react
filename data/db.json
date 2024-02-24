@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "camisa",
+      "price": 59
+    },
+    {
+      "id": "2",
+      "name": "calca",
+      "price": 40
+    },
+    {
+      "id": "3",
+      "name": "meia",
+      "price": 2
+    },
+    {
+      "id": "f7c7",
+      "name": "chinelo",
+      "price": "22.09"
+    },
+    {
+      "id": "0c65",
+      "name": "fronha",
+      "price": "9"
+    },
+    {
+      "id": "5b7f",
+      "name": "chinelo",
+      "price": "9"
+    },
+    {
+      "id": "821a",
+      "name": "cafeteira",
+      "price": "80.00"
+    },
+    {
+      "id": "ea01",
+      "name": "bermuda",
+      "price": "10.50"
+    },
+    {
+      "id": "3a11",
+      "name": "casa",
+      "price": "100000"
+    },
+    {
+      "id": "9e52",
+      "name": "camisa xadrez",
+      "price": "20"
+    },
+    {
+      "id": "05d4",
+      "name": "camisa 10",
+      "price": "10"
+    },
+    {
+      "id": "ed81",
+      "name": "relogio",
+      "price": "120"
+    }
+  ]
+}
